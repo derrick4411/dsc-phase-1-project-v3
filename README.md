@@ -4,12 +4,13 @@
 To analyze historical aviation accident data to identify persistent risk patterns and understand contributing factors
 
 ## business understanding
-## share holders
+
+###share holders
 Airlines: Commercial carriers aiming to reduce accident rates and improve safety records
 Aircraft Manufacturers: Companies needing insights to enhance aircraft design and safety features
 Travel Insurance Companies: Organizations requiring risk assessment data for pricing policies
 
-##key business questions
+###key business questions
 What are the historical trends in aviation accidents over time?
 Which phases of flight present the highest risk for accidents?
 What are the most common contributing factors to aviation accidents?
