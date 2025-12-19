@@ -23,9 +23,10 @@ time period:1980-2022
 records: 88958 aviation accidents
 
 ## Three visualizations
-top 5 countries leading accident aganist total injuries   
-occarence of accident and few get unharmed
-total fatal accident aganist total fatal injuries
+   top 5 countries leading accident aganist total injuries <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/30b57ce5-d991-4b47-90d3-6f5a1d673588" />
+  occarence of accident and few get unharmed<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/8b437bb4-56ac-426d-8266-f9759ed2781f" />
+  total fatal accident aganist total fatal injuries<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2260f211-331e-459c-b066-fa485ef4401d" />
+
 
 ## Conclusion
 Increased Air Traffic: While the number of flights has increased exponentially, the accident rate per million flights has decreased by over 90%.
