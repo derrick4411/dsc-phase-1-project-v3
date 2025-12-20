@@ -30,6 +30,9 @@ occarence of accident and few get unharmed<img width="850" height="547" alt="ima
 
 total fatal accident aganist total fatal injuries<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2260f211-331e-459c-b066-fa485ef4401d" />
 
+## interactive dashboad
+
+
 
 ## Conclusion
 Increased Air Traffic: While the number of flights has increased exponentially, the accident rate per million flights has decreased by over 90%.
