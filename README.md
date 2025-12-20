@@ -32,6 +32,8 @@ total fatal accident aganist total fatal injuries<img width="989" height="590" a
 
 ## interactive dashboad
 https://public.tableau.com/authoring/aviationdataanalysis_17660456315310/Dashboard1#30
+<img width="1998" height="1598" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/19c22d56-a8ab-4e74-ae72-ab78624de250" />
+
 
 
 ## Conclusion
