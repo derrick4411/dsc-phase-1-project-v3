@@ -30,7 +30,7 @@ occarence of accident and few get unharmed<img width="850" height="547" alt="ima
 
 total fatal accident aganist total fatal injuries<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2260f211-331e-459c-b066-fa485ef4401d" />
 
-##  TABKEAU [interactive dashboad]
+##  TABLEAU [interactive dashboad]
 https://public.tableau.com/authoring/aviationdataanalysis_17660456315310/Dashboard1#30
 <img width="1998" height="1598" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/19c22d56-a8ab-4e74-ae72-ab78624de250" />
 
